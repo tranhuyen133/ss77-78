@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Huyen",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ss75-d4672.appspot.com/o/th.jpeg?alt=media&token=b41633fc-427b-401c-b4dc-cbf0427716915"
+    },
+    {
+      "name": "Hay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ss75-d4672.appspot.com/o/travis-bickerstx-dorami-redo-final-01-copy.jpg?alt=media&token=07f49687-e926-4bab-910d-2dec6df44f31",
+      "id": 2
+    }
+  ]
+}
